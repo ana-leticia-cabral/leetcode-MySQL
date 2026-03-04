@@ -18,5 +18,6 @@ Repositório dedicado à exibição das minhas resoluções de problemas envolve
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0596-classes-with-at-least-5-students) |
+| [0607-sales-person](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
