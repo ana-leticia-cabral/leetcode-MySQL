@@ -27,4 +27,12 @@ Repositório dedicado à exibição das minhas resoluções de problemas envolve
 | [1068-product-sales-analysis-i](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/1075-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/1179-game-play-analysis-i) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ana-leticia-cabral/leetcode-MySQL/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
