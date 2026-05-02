@@ -1,4 +1,4 @@
-# <img width="50" alt="image" src="https://github.com/user-attachments/assets/7011fc12-9bef-41b3-91cf-9b9aa94f4c88" /> Problems MySQL - LeetCode
+# <img width="50" alt="image" src="https://github.com/user-attachments/assets/7011fc12-9bef-41b3-91cf-9b9aa94f4c88" /> LeetCode: Problems MySQL
 
 Resoluções de desafios de banco de dados do LeetCode, praticados ao longo da minha jornada de estudos. 
 
