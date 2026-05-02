@@ -1,6 +1,6 @@
 # <img width="50" alt="image" src="https://github.com/user-attachments/assets/7011fc12-9bef-41b3-91cf-9b9aa94f4c88" /> Problems MySQL - LeetCode
 
-Repositório dedicado à exibição das minhas resoluções de problemas envolvendo banco de dados.  
+Resoluções de desafios de banco de dados do LeetCode, praticados ao longo da minha jornada de estudos. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
